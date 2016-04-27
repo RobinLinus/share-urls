@@ -13,6 +13,7 @@ Collection of share urls and documentations of various share urls
 <a href="intent://send/<<number here>>#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end">
 ```
 
+[Whatsapp Manifest](https://gist.github.com/kimenye/eef321a2a182bd4544af) (Look for `BROWSABLE`)
 
 ## Twitter Web Intents
 https://dev.twitter.com/web/intents
