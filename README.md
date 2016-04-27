@@ -4,6 +4,7 @@ Collection of share urls and documentations of various share urls
 
 ## Android Intents
 [Official Documentation](https://developer.chrome.com/multidevice/android/intents)
+[Paul Kinlan on Intent URLs](https://paul.kinlan.me/launch-app-from-web-with-fallback/)
 
 ## whatsapp 
 [Official Documentation](https://www.whatsapp.com/faq/en/iphone/23559013)
