@@ -2,6 +2,9 @@
 Collection of share urls and documentations of various share urls
 
 
+## Android intents
+[Documentation](https://developer.chrome.com/multidevice/android/intents)
+
 ## whatsapp 
 
 ### Sending a message to a specific contact:
