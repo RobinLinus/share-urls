@@ -21,3 +21,4 @@ https://dev.twitter.com/web/intents
 
 ## Paypal Payment Links
 [Stack Overflow](http://stackoverflow.com/questions/9956081/how-can-i-create-a-paypal-link-that-will-send-money-to-a-specific-e-mail-address)
+[POC](https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money&nav=1&email=FOO@BAR.com)
