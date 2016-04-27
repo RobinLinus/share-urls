@@ -2,7 +2,7 @@
 Collection of share urls and documentations of various share urls
 
 
-## Android intents
+## Android Intents
 [Documentation](https://developer.chrome.com/multidevice/android/intents)
 
 ## whatsapp 
@@ -12,3 +12,7 @@ Collection of share urls and documentations of various share urls
 ```
 <a href="intent://send/<<number here>>#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end">
 ```
+
+
+## Twitter Web Intents
+https://dev.twitter.com/web/intents
