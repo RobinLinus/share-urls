@@ -19,6 +19,9 @@ Collection of share urls and documentations of various share urls
 
 [Whatsapp Manifest](https://gist.github.com/kimenye/eef321a2a182bd4544af) (Look for `BROWSABLE`)
 
+### most simple ios fallback
+Link with `href="tel:+905555555555"`. Tell the user to click -> add to contacts.
+
 ## Twitter Web Intents
 https://dev.twitter.com/web/intents
 
@@ -26,3 +29,6 @@ https://dev.twitter.com/web/intents
 ## Paypal Payment Links
 - [Stack Overflow](http://stackoverflow.com/questions/9956081/how-can-i-create-a-paypal-link-that-will-send-money-to-a-specific-e-mail-address)
 - Assuming you are logged in: [POC](https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money&nav=1&email=FOO@BAR.com)
+
+
+
