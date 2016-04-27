@@ -4,10 +4,13 @@ Collection of share urls and documentations of various share urls
 
 ## Android Intents
 - [Official Documentation](https://developer.chrome.com/multidevice/android/intents)
-- [Paul Kinlan on Intent URLs](https://paul.kinlan.me/launch-app-from-web-with-fallback/)
-- [Paul Kinlan](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
+- [Paul Kinlan](https://paul.kinlan.me/)
+  - [Launch App from Web with Fallback](https://paul.kinlan.me/launch-app-from-web-with-fallback/)
+  - [Sharing natively on Android from the Web](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
+
 ## whatsapp 
 - [Official Documentation](https://www.whatsapp.com/faq/en/iphone/23559013)
+
 ### Sending a message to a specific contact:
 - [Stack Overflow](http://stackoverflow.com/questions/21500570/start-whatsapp-from-url-href-with-custom-text-content)
 ```
