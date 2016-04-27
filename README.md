@@ -17,3 +17,7 @@ Collection of share urls and documentations of various share urls
 
 ## Twitter Web Intents
 https://dev.twitter.com/web/intents
+
+
+## Paypal Payment Links
+[Stack Overflow](http://stackoverflow.com/questions/9956081/how-can-i-create-a-paypal-link-that-will-send-money-to-a-specific-e-mail-address)
