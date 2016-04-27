@@ -31,7 +31,8 @@ https://dev.twitter.com/web/intents
 - Assuming you are logged in: [POC](https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money&nav=1&email=FOO@BAR.com)
 
 
-## iOS native app
+## iOS
+- [iPhoneURLScheme Reference](https://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html)
 - [launching your own application via a custom url scheme](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
 
 
