@@ -31,8 +31,9 @@ https://dev.twitter.com/web/intents
 
 ## Paypal Payment Links
 - [Stack Overflow](http://stackoverflow.com/questions/9956081/how-can-i-create-a-paypal-link-that-will-send-money-to-a-specific-e-mail-address)
-- Assuming you are logged in: [POC](https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money&nav=1&email=FOO@BAR.com)
-
+  - Assuming you are logged in: [POC](https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money&nav=1&email=FOO@BAR.com)
+- [Link Generator](http://www.blogbyben.com/2009/04/paypal-link-generator-build-your-own-1.html)
+  - Seems to work without need to be logged in
 
 ## iOS
 - [iPhoneURLScheme Reference](https://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html)
