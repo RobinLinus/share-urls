@@ -51,3 +51,5 @@ https://dev.twitter.com/web/intents
 - [Compatability](http://caniuse.com/#search=registerProtocolHandler)
 
 
+## Skype URIs 
+- [Official Documentation](https://msdn.microsoft.com/en-us/library/office/dn745883.aspx)
