@@ -9,7 +9,8 @@ Collection of share urls and documentations of various share urls
   - [Sharing natively on Android from the Web](https://paul.kinlan.me/sharing-natively-on-android-from-the-web/)
 - [Intent URI Description](http://stackoverflow.com/questions/23231589/intent-anchor-syntax-description)
  - [How do I pass Parameters?](http://stackoverflow.com/questions/16738276/how-do-i-pass-parameters-to-android-intent-in-new-scheme-on-chrome)
- 
+- [Security](http://www.mbsd.jp/Whitepaper/IntentScheme.pdf) 
+
 ## whatsapp 
 - [Official Documentation](https://www.whatsapp.com/faq/en/iphone/23559013)
 
