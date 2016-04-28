@@ -41,6 +41,8 @@ https://dev.twitter.com/web/intents
 - [iOS sms:](https://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/SMSLinks/SMSLinks.html#//apple_ref/doc/uid/TP40007899-CH7-SW1)
 
 
+[URL Schemes for iOS and Android](http://fokkezb.nl/2013/09/20/url-schemes-for-ios-and-android-2/)
+
 
 
 
