@@ -46,5 +46,8 @@ https://dev.twitter.com/web/intents
 [URL Schemes for iOS and Android](http://fokkezb.nl/2013/09/20/url-schemes-for-ios-and-android-2/)
 
 
+## Custom Protocol Handling 
+- [Protocol Handlers](https://developer.mozilla.org/en/docs/Web-based_protocol_handlers)
+- [Compatability](http://caniuse.com/#search=registerProtocolHandler)
 
 
