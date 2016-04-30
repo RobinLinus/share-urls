@@ -15,6 +15,7 @@ Collection of share urls and documentations of various share urls
 ## iOS
 - [iPhoneURLScheme Reference](https://developer.apple.com/library/ios/featuredarticles/iPhoneURLScheme_Reference/Introduction/Introduction.html)
 - [launching your own application via a custom url scheme](http://iosdevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html)
+- [iPhone URL Scheme Reference](http://www.rcconsulting.com/Downloads/Apple_iPhone_URL_Scheme_Reference.pdf)
 
 [URL Schemes for iOS and Android](http://fokkezb.nl/2013/09/20/url-schemes-for-ios-and-android-2/)
 
