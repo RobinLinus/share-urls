@@ -18,8 +18,8 @@ Collection of share urls and documentations of various share urls
 - [iPhone URL Scheme Reference](http://www.rcconsulting.com/Downloads/Apple_iPhone_URL_Scheme_Reference.pdf)
 - [Iphone URL Schemes](http://wiki.akosma.com/IPhone_URL_Schemes)
 - [Handle Open Url](http://handleopenurl.com/)
-[URL Schemes for iOS and Android](http://fokkezb.nl/2013/09/20/url-schemes-for-ios-and-android-2/)
-
+- [URL Schemes for iOS and Android](http://fokkezb.nl/2013/09/20/url-schemes-for-ios-and-android-2/)
+- [Offline Web App with data uri](http://www.sensefulsolutions.com/2010/01/iphone-offline-web-app-creator-data-uri.html)
 
 ## sms: URIs
 - [SMS URIs](http://weblog.west-wind.com/posts/2013/Oct/09/Prefilling-an-SMS-on-Mobile-Devices-with-the-sms-Uri-Scheme)
